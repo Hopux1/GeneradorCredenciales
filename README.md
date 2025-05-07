@@ -91,11 +91,6 @@ gestor.agregarCredencial(clon);
 
 ---
 
-
-```
-
----
-
 ## ✅ Conclusión
 
 El proyecto demuestra la correcta aplicación de los patrones **Prototype** y **Singleton** en una situación práctica. La implementación permite una gestión organizada y extensible de credenciales personalizadas a partir de una plantilla base reutilizable.
