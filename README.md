@@ -78,10 +78,6 @@ gestor.agregarCredencial(clon);
 
 ![image](https://github.com/user-attachments/assets/fff3700e-c57a-42d0-abe3-f24b10c00358)
 
-
-
-> 📌 Agrega aquí una imagen del diagrama UML donde se muestren claramente los patrones aplicados.
-
 ---
 
 ## 📸 Captura del sistema funcionando
