@@ -1,4 +1,4 @@
-# 🪪 Generador de Credenciales de Evento
+# Generador de Credenciales de Evento
 
 ### Estudiante(s):  
 - [André Piffaut y Jeús Vidal] – Patrones de Diseño (Sección 2)
