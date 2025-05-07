@@ -89,24 +89,9 @@ gestor.agregarCredencial(clon);
 ![image](https://github.com/user-attachments/assets/452394c8-e7f9-49d9-8d00-ebca49fe64c9)
 
 
-> 📌 Agrega una o más capturas de pantalla de la consola mostrando credenciales agregadas y visualizadas correctamente.
-
 ---
 
-## 📁 Estructura del proyecto
 
-```
-GeneradorCredenciales/
-├── src/
-│   └── credenciales/
-│       ├── Credencial.java
-│       ├── GestorCredenciales.java
-│       ├── MenuConsola.java
-│       └── Main.java
-├── README.md
-├── img/
-    ├── consola_funcionando.png
-    └── diagrama_clases.png
 ```
 
 ---
