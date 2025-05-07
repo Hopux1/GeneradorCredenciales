@@ -76,7 +76,8 @@ gestor.agregarCredencial(clon);
 
 ## 📊 Diagrama de Clases (UML)
 
-![image](https://github.com/user-attachments/assets/02a4fc65-67a8-4bc9-b53c-1ee967a91ab2)
+![image](https://github.com/user-attachments/assets/fff3700e-c57a-42d0-abe3-f24b10c00358)
+
 
 
 > 📌 Agrega aquí una imagen del diagrama UML donde se muestren claramente los patrones aplicados.
